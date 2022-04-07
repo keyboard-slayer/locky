@@ -1,4 +1,4 @@
-const CLIENT_ID = 'c53nc5eenquwokp';
+const CLIENT_ID = 'wix0yxqf56vnor9';
 
 let accessToken = null;
 
